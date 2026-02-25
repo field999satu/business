@@ -16,7 +16,7 @@
 
         while ($result = $stmt->fetch(PDO::FETCH_ASSOC)) {
             echo '<br>' .
-                'รหัสลูกค้าของฉันแบบที่ 1 : ' . $result['CustomerID'] . ' วันเกิด : ' . $result['Birthdate'] .
+                'รหัสลูกค้า : ' . $result['CustomerID'] . ' วันเกิด : ' . $result['Birthdate'] .
                 ' ยอดหนี้ : ' . $result['OutstandingDebt'];
         }
     } catch (PDOException $e) {

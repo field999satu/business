@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>pariwat</title>
+</head>
+
+<body>
+
+    <p1>กอดอ
+        หีแม่มึงอะไอสัส
+    </p1>
+    กระนูยย
+</body>
+
+</html>
